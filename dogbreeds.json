@@ -1,0 +1,566 @@
+[
+    {
+        "label": "affenpinscher",
+        "value": "affenpinscher"
+    },
+    {
+        "label": "afghan hound",
+        "value": "hound-afghan"
+    },
+    {
+        "label": "african",
+        "value": "african"
+    },
+    {
+        "label": "airedale",
+        "value": "airedale"
+    },
+    {
+        "label": "akita",
+        "value": "akita"
+    },
+    {
+        "label": "american terrier",
+        "value": "terrier-american"
+    },
+    {
+        "label": "appenzeller",
+        "value": "appenzeller"
+    },
+    {
+        "label": "australian cattledog",
+        "value": "cattledog-australian"
+    },
+    {
+        "label": "australian terrier",
+        "value": "terrier-australian"
+    },
+    {
+        "label": "basenji",
+        "value": "basenji"
+    },
+    {
+        "label": "basset hound",
+        "value": "hound-basset"
+    },
+    {
+        "label": "beagle",
+        "value": "beagle"
+    },
+    {
+        "label": "bedlington terrier",
+        "value": "terrier-bedlington"
+    },
+    {
+        "label": "bernese mountain",
+        "value": "mountain-bernese"
+    },
+    {
+        "label": "bichon frise",
+        "value": "frise-bichon"
+    },
+    {
+        "label": "blenheim spaniel",
+        "value": "spaniel-blenheim"
+    },
+    {
+        "label": "blood hound",
+        "value": "hound-blood"
+    },
+    {
+        "label": "bluetick",
+        "value": "bluetick"
+    },
+    {
+        "label": "border collie",
+        "value": "collie-border"
+    },
+    {
+        "label": "border terrier",
+        "value": "terrier-border"
+    },
+    {
+        "label": "borzoi",
+        "value": "borzoi"
+    },
+    {
+        "label": "boston bulldog",
+        "value": "bulldog-boston"
+    },
+    {
+        "label": "bouvier",
+        "value": "bouvier"
+    },
+    {
+        "label": "boxer",
+        "value": "boxer"
+    },
+    {
+        "label": "brabancon",
+        "value": "brabancon"
+    },
+    {
+        "label": "briard",
+        "value": "briard"
+    },
+    {
+        "label": "brittany spaniel",
+        "value": "spaniel-brittany"
+    },
+    {
+        "label": "bull mastiff",
+        "value": "mastiff-bull"
+    },
+    {
+        "label": "cairn",
+        "value": "cairn"
+    },
+    {
+        "label": "cardigan corgi",
+        "value": "corgi-cardigan"
+    },
+    {
+        "label": "caucasian ovcharka",
+        "value": "ovcharka-caucasian"
+    },
+    {
+        "label": "chesapeake retriever",
+        "value": "retriever-chesapeake"
+    },
+    {
+        "label": "chihuahua",
+        "value": "chihuahua"
+    },
+    {
+        "label": "chow",
+        "value": "chow"
+    },
+    {
+        "label": "clumber",
+        "value": "clumber"
+    },
+    {
+        "label": "cockapoo",
+        "value": "cockapoo"
+    },
+    {
+        "label": "cocker spaniel",
+        "value": "spaniel-cocker"
+    },
+    {
+        "label": "coonhound",
+        "value": "coonhound"
+    },
+    {
+        "label": "cotondetulear",
+        "value": "cotondetulear"
+    },
+    {
+        "label": "curly retriever",
+        "value": "retriever-curly"
+    },
+    {
+        "label": "dachshund",
+        "value": "dachshund"
+    },
+    {
+        "label": "dalmatian",
+        "value": "dalmatian"
+    },
+    {
+        "label": "dandie terrier",
+        "value": "terrier-dandie"
+    },
+    {
+        "label": "dhole",
+        "value": "dhole"
+    },
+    {
+        "label": "dingo",
+        "value": "dingo"
+    },
+    {
+        "label": "doberman",
+        "value": "doberman"
+    },
+    {
+        "label": "english bulldog",
+        "value": "bulldog-english"
+    },
+    {
+        "label": "english hound",
+        "value": "hound-english"
+    },
+    {
+        "label": "english mastiff",
+        "value": "mastiff-english"
+    },
+    {
+        "label": "english setter",
+        "value": "setter-english"
+    },
+    {
+        "label": "english sheepdog",
+        "value": "sheepdog-english"
+    },
+    {
+        "label": "english springer",
+        "value": "springer-english"
+    },
+    {
+        "label": "entlebucher",
+        "value": "entlebucher"
+    },
+    {
+        "label": "eskimo",
+        "value": "eskimo"
+    },
+    {
+        "label": "flatcoated retriever",
+        "value": "retriever-flatcoated"
+    },
+    {
+        "label": "fox terrier",
+        "value": "terrier-fox"
+    },
+    {
+        "label": "french bulldog",
+        "value": "bulldog-french"
+    },
+    {
+        "label": "german pointer",
+        "value": "pointer-german"
+    },
+    {
+        "label": "germanlonghair pointer",
+        "value": "pointer-germanlonghair"
+    },
+    {
+        "label": "germanshepherd",
+        "value": "germanshepherd"
+    },
+    {
+        "label": "giant schnauzer",
+        "value": "schnauzer-giant"
+    },
+    {
+        "label": "golden retriever",
+        "value": "retriever-golden"
+    },
+    {
+        "label": "gordon setter",
+        "value": "setter-gordon"
+    },
+    {
+        "label": "great dane",
+        "value": "dane-great"
+    },
+    {
+        "label": "groenendael",
+        "value": "groenendael"
+    },
+    {
+        "label": "havanese",
+        "value": "havanese"
+    },
+    {
+        "label": "husky",
+        "value": "husky"
+    },
+    {
+        "label": "ibizan hound",
+        "value": "hound-ibizan"
+    },
+    {
+        "label": "irish setter",
+        "value": "setter-irish"
+    },
+    {
+        "label": "irish spaniel",
+        "value": "spaniel-irish"
+    },
+    {
+        "label": "irish terrier",
+        "value": "terrier-irish"
+    },
+    {
+        "label": "irish wolfhound",
+        "value": "wolfhound-irish"
+    },
+    {
+        "label": "italian greyhound",
+        "value": "greyhound-italian"
+    },
+    {
+        "label": "japanese spaniel",
+        "value": "spaniel-japanese"
+    },
+    {
+        "label": "keeshond",
+        "value": "keeshond"
+    },
+    {
+        "label": "kelpie",
+        "value": "kelpie"
+    },
+    {
+        "label": "kerryblue terrier",
+        "value": "terrier-kerryblue"
+    },
+    {
+        "label": "komondor",
+        "value": "komondor"
+    },
+    {
+        "label": "kuvasz",
+        "value": "kuvasz"
+    },
+    {
+        "label": "labrador",
+        "value": "labrador"
+    },
+    {
+        "label": "lakeland terrier",
+        "value": "terrier-lakeland"
+    },
+    {
+        "label": "lapphund finnish",
+        "value": "finnish-lapphund"
+    },
+    {
+        "label": "leonberg",
+        "value": "leonberg"
+    },
+    {
+        "label": "lhasa",
+        "value": "lhasa"
+    },
+    {
+        "label": "malamute",
+        "value": "malamute"
+    },
+    {
+        "label": "malinois",
+        "value": "malinois"
+    },
+    {
+        "label": "maltese",
+        "value": "maltese"
+    },
+    {
+        "label": "mexicanhairless",
+        "value": "mexicanhairless"
+    },
+    {
+        "label": "miniature pinscher",
+        "value": "pinscher-miniature"
+    },
+    {
+        "label": "miniature poodle",
+        "value": "poodle-miniature"
+    },
+    {
+        "label": "miniature schnauzer",
+        "value": "schnauzer-miniature"
+    },
+    {
+        "label": "mix",
+        "value": "mix"
+    },
+    {
+        "label": "newfoundland",
+        "value": "newfoundland"
+    },
+    {
+        "label": "norfolk terrier",
+        "value": "terrier-norfolk"
+    },
+    {
+        "label": "norwegian buhund",
+        "value": "buhund-norwegian"
+    },
+    {
+        "label": "norwegian elkhound",
+        "value": "elkhound-norwegian"
+    },
+    {
+        "label": "norwich terrier",
+        "value": "terrier-norwich"
+    },
+    {
+        "label": "otterhound",
+        "value": "otterhound"
+    },
+    {
+        "label": "papillon",
+        "value": "papillon"
+    },
+    {
+        "label": "patterdale terrier",
+        "value": "terrier-patterdale"
+    },
+    {
+        "label": "pekinese",
+        "value": "pekinese"
+    },
+    {
+        "label": "pembroke",
+        "value": "pembroke"
+    },
+    {
+        "label": "pitbull",
+        "value": "pitbull"
+    },
+    {
+        "label": "plott hound",
+        "value": "hound-plott"
+    },
+    {
+        "label": "pomeranian",
+        "value": "pomeranian"
+    },
+    {
+        "label": "pug",
+        "value": "pug"
+    },
+    {
+        "label": "puggle",
+        "value": "puggle"
+    },
+    {
+        "label": "pyrenees",
+        "value": "pyrenees"
+    },
+    {
+        "label": "redbone",
+        "value": "redbone"
+    },
+    {
+        "label": "rhodesian ridgeback",
+        "value": "ridgeback-rhodesian"
+    },
+    {
+        "label": "rottweiler",
+        "value": "rottweiler"
+    },
+    {
+        "label": "russell terrier",
+        "value": "terrier-russell"
+    },
+    {
+        "label": "saluki",
+        "value": "saluki"
+    },
+    {
+        "label": "samoyed",
+        "value": "samoyed"
+    },
+    {
+        "label": "schipperke",
+        "value": "schipperke"
+    },
+    {
+        "label": "scottish deerhound",
+        "value": "deerhound-scottish"
+    },
+    {
+        "label": "scottish terrier",
+        "value": "terrier-scottish"
+    },
+    {
+        "label": "sealyham terrier",
+        "value": "terrier-sealyham"
+    },
+    {
+        "label": "shepherd australian",
+        "value": "australian-shepherd"
+    },
+    {
+        "label": "shetland sheepdog",
+        "value": "sheepdog-shetland"
+    },
+    {
+        "label": "shiba",
+        "value": "shiba"
+    },
+    {
+        "label": "shihtzu",
+        "value": "shihtzu"
+    },
+    {
+        "label": "silky terrier",
+        "value": "terrier-silky"
+    },
+    {
+        "label": "spanish waterdog",
+        "value": "waterdog-spanish"
+    },
+    {
+        "label": "staffordshire bullterrier",
+        "value": "bullterrier-staffordshire"
+    },
+    {
+        "label": "standard poodle",
+        "value": "poodle-standard"
+    },
+    {
+        "label": "stbernard",
+        "value": "stbernard"
+    },
+    {
+        "label": "sussex spaniel",
+        "value": "spaniel-sussex"
+    },
+    {
+        "label": "swiss mountain",
+        "value": "mountain-swiss"
+    },
+    {
+        "label": "tibetan mastiff",
+        "value": "mastiff-tibetan"
+    },
+    {
+        "label": "tibetan terrier",
+        "value": "terrier-tibetan"
+    },
+    {
+        "label": "toy poodle",
+        "value": "poodle-toy"
+    },
+    {
+        "label": "toy terrier",
+        "value": "terrier-toy"
+    },
+    {
+        "label": "vizsla",
+        "value": "vizsla"
+    },
+    {
+        "label": "walker hound",
+        "value": "hound-walker"
+    },
+    {
+        "label": "weimaraner",
+        "value": "weimaraner"
+    },
+    {
+        "label": "welsh spaniel",
+        "value": "spaniel-welsh"
+    },
+    {
+        "label": "westhighland terrier",
+        "value": "terrier-westhighland"
+    },
+    {
+        "label": "wheaten terrier",
+        "value": "terrier-wheaten"
+    },
+    {
+        "label": "whippet",
+        "value": "whippet"
+    },
+    {
+        "label": "yorkshire terrier",
+        "value": "terrier-yorkshire"
+    }
+]
