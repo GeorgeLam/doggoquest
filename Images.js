@@ -1,4 +1,6 @@
-import React, {useState, useEffect} from 'react'
+import React, {useState, useEffect, useContext} from 'react'
+import {StateContext} from './Context'
+
 import { StyleSheet, Text, View, Image, Button } from 'react-native';
 import DropDownPicker from 'react-native-dropdown-picker';
 import breeds from './dogbreeds.json';
@@ -11,6 +13,8 @@ const Images = () => {
     const [imageLink, setImageLink] = useState(null);
     const [randomMode, setRandomMode] = useState(null);
     const [randomBreed, setRandomBreed] = useState(null);
+
+    const {savedImages, setSavedImages} = useContext(StateContext)
 
     useEffect(() => {APIFetch()}, [])
 
@@ -43,13 +47,15 @@ const Images = () => {
 
     const saveImage = async(value) => {
         console.log('saved: ', imageLink);
-        try {
-            await AsyncStorage.setItem('hello', value, function(e){console.log(e)})
-            console.log('set')
-        } catch (e) {
-            // saving error
-        }
-        await AsyncStorage.getItem('hello');
+
+        setSavedImages([...savedImages, imageLink]);
+        // try {
+        //     await AsyncStorage.setItem('hello', value, function(e){console.log(e)})
+        //     console.log('set')
+        // } catch (e) {
+        //     // saving error
+        // }
+        // await AsyncStorage.getItem('hello');
     }
 
     return (
